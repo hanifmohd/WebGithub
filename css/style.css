@@ -2819,4 +2819,10 @@ html.is-animating .fade-left {
   }
 }
 
+/* iframe */
+
+.frame {
+ width: 100 px;
+ height: 80 px;
+}
 /*# sourceMappingURL=style.css.map */
